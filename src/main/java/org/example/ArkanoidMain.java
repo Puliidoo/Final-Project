@@ -14,6 +14,8 @@ public class ArkanoidMain extends JPanel implements KeyListener, ActionListener 
     int bolaX = 120, bolaY = 350;
     int dirX = -2, dirY = -4;
 
+
+    // hola
     // Blocs
     boolean[][] blocs = new boolean[3][7]; // 3 files, 7 columnes
     int blocWidth = 80;
